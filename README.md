@@ -19,3 +19,4 @@ https://zencastr.com/Maling-med-akryl-olier-og-akvareller
 https://coliru.stacked-crooked.com/a/231a2c6b6814db0c
 https://biocoll.inhs.illinois.edu/portal/checklists/checklist.php?cl=40167
 https://techplanet.today/post/sprojt-eller-borst-en-polymerplet
+https://github.com/tersambo/Maalaus-akryyli--ljy--ja-vesiv-reill-/blob/main/README.md
